@@ -1,0 +1,1 @@
+in html i changed <h2> to <h1> and in css i changed the white color to black 
